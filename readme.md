@@ -25,7 +25,7 @@ This project is a small application aimed at learning microservices architecture
   cd gateway
   npm run start:dev
   ```
-  - The gateway(backend) should now be running on `http://localhost:4000`.
+  - The gateway(backend) should now be running on `http://localhost:3000`.
 
   - Run the microservices:
   ```
