@@ -37,7 +37,7 @@ This project is a small application aimed at learning microservices architecture
 
 ## Usage
 - Navigate through the application to explore different features related to microservices and authentication.
-- Use the provided authentication flows to understand how JWT tokens are used for secure communication between services and the frontend.
+- Use the provided authentication flows to understand how Authentication are used for secure communication between services and the frontend.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or issues, please open an issue or a pull request on GitHub.
