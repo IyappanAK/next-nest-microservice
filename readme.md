@@ -33,7 +33,7 @@ This project is a small application aimed at learning microservices architecture
   cd frontend
   npm run dev
   ```
-- Open your browser and go to `http://localhost:3000` to see the application running.
+- Open your browser and go to `http://localhost:3001` to see the application running.
 
 ## Usage
 - Navigate through the application to explore different features related to microservices and authentication.
@@ -41,9 +41,6 @@ This project is a small application aimed at learning microservices architecture
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or issues, please open an issue or a pull request on GitHub.
-
-## License
-This project is licensed under the [MIT License](link-to-license).
 
 ## Acknowledgments
 - Hat tip to anyone whose code was used
