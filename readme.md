@@ -20,17 +20,24 @@ This project is a small application aimed at learning microservices architecture
 
 ## Getting Started
 1. **Backend (Nest.js Microservices)**:
-- Run the microservices:
+- Run the gateway:
   ```
-  cd backend
+  cd gateway
   npm run start:dev
   ```
-- The microservices should now be running on `http://localhost:3000`.
+  - The gateway(backend) should now be running on `http://localhost:4000`.
+
+  - Run the microservices:
+  ```
+  cd crud-microservice
+  npm run start:dev
+  ```
+
 
 2. **Frontend (Next.js)**:
 - Start the Next.js development server:
   ```
-  cd frontend
+  cd auth-nextjs
   npm run dev
   ```
 - Open your browser and go to `http://localhost:3001` to see the application running.
@@ -42,7 +49,3 @@ This project is a small application aimed at learning microservices architecture
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or issues, please open an issue or a pull request on GitHub.
 
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
